@@ -1,0 +1,13 @@
+.idea
+.idea/*
+*.log
+*.out
+*.xml
+*.zip
+*.iml
+*.lock
+src/vendor/
+cql/migrate-generator/vendor/
+services/continuum/config/ctm_scripting_cfg.json
+services/continuum/scriptingService/platform-scripting-service
+src/.gometalinter.json
